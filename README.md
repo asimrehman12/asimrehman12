@@ -18,7 +18,7 @@ Software Engineer • Python Developer • Flutter Developer • AI Enthusiast
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/asim-rehman-60b67931a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ar7658472@gmail.com">
