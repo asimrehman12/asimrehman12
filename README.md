@@ -28,6 +28,8 @@ Software Engineer • Python Developer • Flutter Developer • AI Enthusiast
 
 </p>
 
+<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=asimrehman12&style=for-the-badge&color=00C2FF"/>
 
 </p>
