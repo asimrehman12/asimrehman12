@@ -15,7 +15,7 @@ Software Engineer • Python Developer • Flutter Developer • AI Enthusiast
 <p align="center">
 
 <a href="https://my-portfolio-ash23.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-808080?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/asim-rehman-60b67931a/">
