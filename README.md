@@ -2,10 +2,10 @@
   <img src="assets/github_banner.png" alt="Asim Rehman Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Asim Rehman</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 <h3 align="center">
-Software Engineer • Flutter Developer • Python Developer • AI Enthusiast
+Software Engineer • Python Developer • Flutter Developer • AI Enthusiast
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@ Software Engineer • Flutter Developer • Python Developer • AI Enthusiast
 <p align="center">
 
 <a href="https://my-portfolio-ash23.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit Website-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐 Portfolio-00C2FF?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/asim-rehman-60b67931a/">
