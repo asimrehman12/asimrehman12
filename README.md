@@ -106,7 +106,7 @@ Academic and professional platform with multi-role user management (Student, Man
 </tr>
 </table>
 
-<p align="center"><em>🔒 Source code for most projects is available upon request — feel free to reach out!</em></p>
+<p align="center"><em>🔒 Source code for most projects is available upon request, feel free to reach out!</em></p>
 
 ---
 
@@ -122,21 +122,5 @@ Academic and professional platform with multi-role user management (Student, Man
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asimrehman12&theme=tokyo-night&hide_border=true" width="98%"/>
-</p>
-
----
-
-### 📫 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/asim-rehman-60b67931a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:asimrehman.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://my-portfolio-ash23.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-View%20Work-00C2FF?style=for-the-badge"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?&theme=tokyo-night&hide_border=true" width="98%"/>
 </p>
