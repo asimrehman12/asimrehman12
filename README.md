@@ -24,12 +24,11 @@ Software Engineer • Machine Learning enthusiast • Python Developer • Flutt
 
 ### 👋 About Me
 
-- 🎓 Final-year **Software Engineering** student at **Kohat University of Science and Technology (KUST)**, Institute of Computing
-- 💻 I build complete, end-to-end products — mobile apps, IoT systems, AI tools, and desktop utilities — not just prototypes
-- 🌱 My Final Year Project, **AgroSense**, is an intelligent agricultural monitoring system that uses IoT sensors to help farmers protect high-value crops with real-time insights and automation
-- 🚀 Also running **Aisle & Ink** on the side, a WhatsApp-first digital wedding invitation platform
-- 🔭 Interests span Flutter/mobile development, IoT, machine learning, and software re-engineering
-- ⚡ Always exploring new opportunities across SaaS, mobile, and applied AI
+Results-oriented Software Engineer with practical experience in Python development, Flutter, full-stack software engineering, Artificial Intelligence, Generative AI, and IoT application development. Proven ability to design, develop, and deploy scalable software solutions from concept to implementation.
+
+Experienced in building AI-powered chatbots, enterprise business management applications, and cloud-connected IoT systems using Firebase and modern development frameworks. Strong analytical thinker with excellent problem-solving skills and a passion for developing reliable, user-focused software solutions.
+
+Currently a final-year Software Engineering student at Kohat University of Science and Technology (KUST), completing my FYP, AgroSense — an IoT-based agricultural monitoring system. Alongside my studies, I run Aisle & Ink, a WhatsApp-first digital wedding invitation platform.
 
 ---
 
