@@ -24,11 +24,9 @@ Software Engineer • Machine Learning enthusiast • Python Developer • Flutt
 
 ### 👋 About Me
 
-Results-oriented Software Engineer with practical experience in Python development, Flutter, full-stack software engineering, Artificial Intelligence, Generative AI, and IoT application development. Proven ability to design, develop, and deploy scalable software solutions from concept to implementation.
+Results-oriented Software Engineer with practical experience in Machine Learning, Python development, Artificial Intelligence, Generative AI, Flutter, and IoT application development. I have proven ability to design, develop, and deploy scalable software solutions from concept to implementation.
 
-Experienced in building AI-powered chatbots, enterprise business management applications, and cloud-connected IoT systems using Firebase and modern development frameworks. Strong analytical thinker with excellent problem-solving skills and a passion for developing reliable, user-focused software solutions.
-
-Currently a final-year Software Engineering student at Kohat University of Science and Technology (KUST), completing my FYP, AgroSense — an IoT-based agricultural monitoring system. Alongside my studies, I run Aisle & Ink, a WhatsApp-first digital wedding invitation platform.
+Experienced in building AI-powered chatbots, Mobile applications, and cloud-connected IoT systems using Firebase and modern development frameworks. I am Strong analytical thinker with excellent problem-solving skills and a passion for developing reliable, user-focused software solutions.
 
 ---
 
