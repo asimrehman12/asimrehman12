@@ -18,7 +18,7 @@ Software Engineer • Machine Learning enthusiast • Python Developer • Flutt
 <img src="https://img.shields.io/badge/LinkedIn-Asim Rehman-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:ar7658472@gmail.com">
+<a href="mailto:asimrehman.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
