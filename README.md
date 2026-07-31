@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub</h1>
 
 <h3 align="center">
-Software Engineer • Python Developer • Flutter Developer • AI Enthusiast
+Software Engineer • Machine Learning enthusiast • Python Developer • Flutter Developer • AI Enthusiast
 </h3>
 
 <p align="center">
