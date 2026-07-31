@@ -122,5 +122,5 @@ Academic and professional platform with multi-role user management (Student, Man
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?user=asimrehman12&theme=tokyo-night&hide_border=true" width="98%"/>
 </p>
