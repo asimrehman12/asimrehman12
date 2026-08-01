@@ -24,9 +24,12 @@ Software Engineer • Machine Learning enthusiast • Python Developer • Flutt
 
 ### 👋 About Me
 
-Results-oriented Software Engineer with practical experience in Machine Learning, Python development, Artificial Intelligence, Generative AI, Flutter, and IoT application development. I have proven ability to design, develop, and deploy scalable software solutions from concept to implementation.
-
-Experienced in building AI-powered chatbots, Mobile applications, and cloud-connected IoT systems using Firebase and modern development frameworks. I am Strong analytical thinker with excellent problem-solving skills and a passion for developing reliable, user-focused software solutions.
+Machine Learning enthusiast with hands-on experience building AI-powered systems, including a Generative AI chatbot
+developed during an internship at the National Incubation Center. Proficient in Python, scikit-learn, and data analysis
+(NumPy, Pandas, Matplotlib), with practical exposure to computer vision fundamentals (OpenCV) and backend
+development using FastAPI. Strong foundation in software engineering principles, with a track record of independently
+designing and deploying complete, production-ready applications. Analytical problem-solver eager to apply ML/AI skills
+to real-world data-driven challenges
 
 ---
 
@@ -53,7 +56,7 @@ Experienced in building AI-powered chatbots, Mobile applications, and cloud-conn
 <tr>
 <td width="50%" valign="top">
 
-**🌱 AgroSense** — *Featured · IoT + Agriculture + Mobile*
+**🌱 AgroSense** : *Featured · IoT + Agriculture + Mobile*
 An intelligent agricultural monitoring system using IoT sensors to monitor environmental conditions and help farmers protect high-value crops through real-time insights and automation.
 
 `Flutter` `Firebase` `IoT` `ESP32` `MicroPython`
@@ -61,7 +64,7 @@ An intelligent agricultural monitoring system using IoT sensors to monitor envir
 </td>
 <td width="50%" valign="top">
 
-**🤖 AI Chatbot System** — *Artificial Intelligence*
+**🤖 AI Chatbot System** : *Artificial Intelligence*
 Custom chatbot built using Python and machine learning, with training pipelines, model checkpoints, and NLP processing for intelligent conversation.
 
 `Python` `NLP` `Machine Learning`
@@ -71,7 +74,7 @@ Custom chatbot built using Python and machine learning, with training pipelines,
 <tr>
 <td width="50%" valign="top">
 
-**📱 Nokia Keypad Encoder** — *Python Application*
+**📱 Nokia Keypad Encoder** : *Python Application*
 A custom encoding and decoding system inspired by classic Nokia T9 keypad technology, converting text into numerical sequences and vice versa.
 
 `Python` `Algorithms` `Data Structures`
@@ -79,7 +82,7 @@ A custom encoding and decoding system inspired by classic Nokia T9 keypad techno
 </td>
 <td width="50%" valign="top">
 
-**⬇️ YouTube Downloader** — *Desktop Application*
+**⬇️ YouTube Downloader** : *Desktop Application*
 A Python desktop app for downloading audio and video content in multiple formats through an intuitive graphical interface.
 
 `Python` `GUI` `yt-dlp`
@@ -89,18 +92,10 @@ A Python desktop app for downloading audio and video content in multiple formats
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Student Record Re-Engineering** — *Software Engineering*
+**🎓 Student Record Re-Engineering** : *Software Engineering*
 Analysis and redesign of a traditional student record system using software re-engineering techniques — process modeling, DFDs, ERDs, and system optimization.
 
 `Software Engineering` `System Analysis` `Database Design`
-
-</td>
-<td width="50%" valign="top">
-
-**🤝 TeamUp Pakistan** — *Full Stack Platform*
-Academic and professional platform with multi-role user management (Student, Manager, Buyer, Admin), covering team formation, task management, and a marketplace.
-
-`Flutter` `Firebase` `System Design`
 
 </td>
 </tr>
