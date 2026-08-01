@@ -50,8 +50,8 @@ to real-world data-driven challenges
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
--------------------------------------------------------------------------------------------------
 
+---
 
 ### 🚧 Featured Projects
 
