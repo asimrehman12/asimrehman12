@@ -34,8 +34,6 @@ to real-world data-driven challenges
 ---
 
 ### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,7 +50,8 @@ to real-world data-driven challenges
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
----
+-------------------------------------------------------------------------------------------------
+
 
 ### 🚧 Featured Projects
 
